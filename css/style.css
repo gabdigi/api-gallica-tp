@@ -1,0 +1,224 @@
+* {
+    font-family: "Gill Sans", sans-serif;
+    
+}
+
+body {
+    margin: auto;
+    max-width: 1200px;
+}
+
+.section-title {
+    display: flex;
+    justify-content: center;
+}
+
+.header-1 {
+     display: flex;
+     justify-content: center;
+ }
+
+ nav ul{
+     display: flex;
+     list-style: none;
+     margin: 25px 0px;
+     padding: 0px;
+ }
+
+ nav ul li {
+     margin: 0px 10px;
+     font-size: 30px;
+ }
+
+ nav ul li a{
+   text-decoration: none;
+   color: black;
+}
+
+.portrait-list {
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 0;
+
+}
+
+.portrait figure a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+.portrait figure img{
+    height: 200px;
+    width: 150px;
+    border-radius: 10px;
+    border: 3px solid black;
+    position: relative;
+    transition: transform 450ms, background-color 300ms 150ms;
+}
+
+.portrait figure img:hover{
+    transform: scale(1.13);
+
+}
+
+.portrait figure figcaption{
+    margin: auto;
+}
+
+.section-data p {
+    margin: 50px 0;
+}
+
+canvas {
+    height: 80px;
+    width: auto;
+}
+
+
+/*********************************************************PAGE MARIE CURIE ************************************************************************/
+
+.mc-section-article {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.mc-section-article img {
+    height: 400px;
+    width: 300px;
+    margin: auto;
+}
+
+.mc-section-article h1, p{
+    text-align: center;
+}
+
+.mc-section-article p{
+    max-width: 900px;
+    text-align: center;
+    margin: 15px auto;
+}
+
+#datadisplay {
+    display: flex;
+    flex-direction: column;
+}
+
+#datadisplay .srwrecord div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#datadisplay .srwrecord div img{
+    border: 1px solid black;
+    height: 400px;
+    width: 300px;
+}
+
+
+ 
+#datadisplay .srwrecord h1, h2, p{
+    text-align: center;
+    
+}
+
+
+/*********************************************************PAGE MARIE CURIE ************************************************************************/
+
+
+/********************************************************PAGE VOLTAIRE ****************************************************************************/
+
+
+.vol-section-article {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.vol-section-article img {
+    height: 400px;
+    width: 300px;
+    margin: auto;
+}
+
+#datadisplay2 {
+    display: flex;
+    flex-direction: column;
+}
+
+#datadisplay2 .srwrecord div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#datadisplay2 .srwrecord div img{
+    border: 1px solid black;
+    height: 400px;
+    width: 300px;
+}
+
+
+ 
+#datadisplay2 .srwrecord h1, h2, p{
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+/********************************************************PAGE VOLTAIRE ****************************************************************************/
+
+/********************************************************PAGE Edith Piaf ****************************************************************************/
+
+.vol-section-article {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.vol-section-article img {
+    height: 400px;
+    width: 300px;
+    margin: auto;
+}
+
+#datadisplay2 {
+    display: flex;
+    flex-direction: column;
+}
+
+#datadisplay2 .srwrecord div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#datadisplay2 .srwrecord div img{
+    border: 1px solid black;
+    height: 400px;
+    width: 400px;
+}
+
+
+ 
+#datadisplay2 .srwrecord h1, h2, p{
+    text-align: center;
+    
+}
+
+
+
+/********************************************************PAGE Edith Piaf ****************************************************************************/

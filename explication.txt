@@ -1,0 +1,18 @@
+Control TP gallica
+
+A partir de l'API gallica, réaliser des dataviz sur 3 artistes/auteurs/personnalités différentes.
+Vos dataviz devront montrer l'impact de ses personnes sur le domaine culturel et les publications de la BNF.
+
+Pour se control sur gallica je suis partir sur 3 personne
+- Marie Curie pour la 1er femme à enseigner à la sorbonne mais aussi la découverte et la ménières se propage la radiation
+- Voltaire pour un philosophe de lumières
+- Ray charles pour après avoir perdu le sens de la vue il continue de jouer du piano
+
+le gallica et composer de 4 pages.
+
+Un accueil avec un graph dataviz en chartjs en forme de donut qui montre sur un resultat 
+des documents les plus archiver sur gallica de la bnf, et pour ma part sans être choquer voltaire à plus de chose conserver
+que les 2 autres personnes.
+
+les 3 autres pages contient une biref information sur ce qu'il on fait mais aussi récupérer qu'elle que archive sur la gallica de la bnf
+de ce qu'il on eu en leur temps mais aussi.

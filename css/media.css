@@ -1,0 +1,13 @@
+@media screen and (max-width: 425px) {
+    nav ul li {
+        margin: 0px 10px;
+        font-size: 20px;
+    }
+
+    .portrait-list {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+}
